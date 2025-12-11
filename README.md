@@ -1,6 +1,6 @@
 # Java-COMPLETO-Programa-o-Orientada-a-Objetos
 
-#Projeto: Course
+# Projeto: Course
 # Objetivo Principal dos Programas: 
 1. O objetivo central é demonstrar o uso de Programação Orientada a Objetos (POO) em Java para:Modelar um Triângulo como uma classe, encapsulando seus dados (lados) e a lógica para calcular sua área. 
 2.  Criar um programa principal que instancia e manipula dois triângulos (X e Y) distintos.Comparar as áreas calculadas de X e Y para determinar e informar qual deles possui a maior área.
@@ -12,9 +12,8 @@
 8.  Imprime as áreas formatadas com 4 casas decimais.
 9.  Usa uma estrutura if/else para comparar areaX e areaY e exibe na tela qual letra (X ou Y) corresponde à maior área
 
-#Projeto: Projeto1
-#Fazer um programa para ler os dados de um produto em estoque (nome, preço e
-#quantidade no estoque). Em seguida:
+# Projeto: Projeto1
+# Fazer um programa para ler os dados de um produto em estoque (nome, preço e quantidade no estoque). Em seguida:
 • Mostrar os dados do produto (nome, preço, quantidade no estoque, valor total no
 estoque)
 • Realizar uma entrada no estoque e mostrar novamente os dados do produto
