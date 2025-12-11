@@ -19,4 +19,7 @@ estoque)
 • Realizar uma entrada no estoque e mostrar novamente os dados do produto
 • Realizar uma saída no estoque e mostrar novamente os dados do produto
 Para resolver este problema, você deve criar
-uma CLASSE conforme projeto ao lado:
+uma CLASSE conforme projeto abaixo:
+
+<img width="317" height="186" alt="image" src="https://github.com/user-attachments/assets/c4bc628c-23ec-4828-8e13-226c929078ea" />
+
