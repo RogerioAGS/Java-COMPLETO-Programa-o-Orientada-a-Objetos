@@ -28,3 +28,12 @@ uma CLASSE conforme projeto abaixo:
 
 <img width="722" height="310" alt="image" src="https://github.com/user-attachments/assets/209bf3e9-af16-481d-9668-7bb6be1abc5f" />
 
+# Projeto: funcuinario
+
+Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em seguida, mostrar os dados do funcionário (nome e salário líquido). Em seguida, aumentar o
+salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostrar novamente os dados do funcionário. Use a classe projetada abaixo.
+
+<img width="411" height="163" alt="image" src="https://github.com/user-attachments/assets/81f1afe0-2631-441a-870a-af158249f7a6" />
+
+<img width="256" height="122" alt="image" src="https://github.com/user-attachments/assets/71d9d096-4d16-4c8d-8664-3ff7fc463be4" />
+
