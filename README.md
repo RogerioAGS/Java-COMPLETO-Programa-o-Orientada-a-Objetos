@@ -28,6 +28,16 @@ uma CLASSE conforme projeto abaixo:
 
 <img width="722" height="310" alt="image" src="https://github.com/user-attachments/assets/209bf3e9-af16-481d-9668-7bb6be1abc5f" />
 
+# Projeto: rectangle
+
+Fazer um programa para ler os valores da largura e altura de um retângulo. Em seguida, mostrar na tela o valor de sua área, perímetro e diagonal. Usar uma classe como
+mostrado no projeto ao lado.
+
+<img width="628" height="137" alt="image" src="https://github.com/user-attachments/assets/e0547089-bbb3-4e92-a04c-757af5de94f0" />
+
+<img width="157" height="132" alt="image" src="https://github.com/user-attachments/assets/d3c7dc43-49cf-4e1b-8289-bfd980c63764" />
+
+
 # Projeto: funcuinario
 
 Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em seguida, mostrar os dados do funcionário (nome e salário líquido). Em seguida, aumentar o
