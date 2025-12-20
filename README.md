@@ -65,3 +65,8 @@ Versão 3: classe Calculator com método estático (staticMath)
 
 <img width="408" height="114" alt="image" src="https://github.com/user-attachments/assets/e079809d-4d73-4a75-953e-e46d1a6b9982" />
 
+# Projeto: quotation
+
+Faça um programa para ler a cotação do dólar, e depois um valor em dólares a ser comprado por uma pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a pessoa terá que pagar 6% de IOF sobre o valor em dólar. Criar uma classe CurrencyConverter para ser responsável pelos cálculos.
+
+<img width="865" height="86" alt="image" src="https://github.com/user-attachments/assets/c9eb2cc0-d1e1-44b7-a37f-100c759ddc8b" />
