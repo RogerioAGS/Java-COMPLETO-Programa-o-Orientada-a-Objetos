@@ -70,3 +70,21 @@ Versão 3: classe Calculator com método estático (staticMath)
 Faça um programa para ler a cotação do dólar, e depois um valor em dólares a ser comprado por uma pessoa em reais. Informar quantos reais a pessoa vai pagar pelos dólares, considerando ainda que a pessoa terá que pagar 6% de IOF sobre o valor em dólar. Criar uma classe CurrencyConverter para ser responsável pelos cálculos.
 
 <img width="865" height="86" alt="image" src="https://github.com/user-attachments/assets/c9eb2cc0-d1e1-44b7-a37f-100c759ddc8b" />
+
+# Projeto: estoque
+
+# Proposta de melhoria
+
+Quando executamos o comando abaixo, instanciamos um produto "product" com seus atributos “vazios”:
+
+product = new Product();
+
+<img width="643" height="176" alt="image" src="https://github.com/user-attachments/assets/4bf676c9-8cb0-4908-9bb2-3eb0bd7bfb20" />
+
+
+Entretanto, faz sentido um produto que não tem nome? Faz sentido um produto que não tem preço?
+
+Com o intuito de evitar a existência de produtos sem nome e sem preço, é possível fazer com que seja “obrigatória” a iniciação desses valores?
+
+<img width="1027" height="422" alt="image" src="https://github.com/user-attachments/assets/d71b6352-ede0-4fd5-bfb4-c1d17aec8dbf" />
+
