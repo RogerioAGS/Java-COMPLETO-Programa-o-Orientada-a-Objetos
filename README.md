@@ -57,5 +57,11 @@ Fazer um programa para ler o nome de um aluno e as três notas que ele obteve no
 
 Fazer um programa para ler um valor numérico qualquer, e daí mostrar quanto seria o valor de uma circunferência e do volume de uma esfera para um raio daquele valor. Informar também o valor de PI com duas casas decimais.
 
+Versão 1: métodos na própria classe do programa (simpleMath)
+Nota: dentro de um método estático você não pode chamar membros de
+instância da mesma classe.
+Versão 2: classe Calculator com membros de instância (instanceMath)
+Versão 3: classe Calculator com método estático (staticMath)
+
 <img width="408" height="114" alt="image" src="https://github.com/user-attachments/assets/e079809d-4d73-4a75-953e-e46d1a6b9982" />
 
