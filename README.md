@@ -47,3 +47,11 @@ salário do funcionário com base em uma porcentagem dada (somente o salário br
 
 <img width="256" height="122" alt="image" src="https://github.com/user-attachments/assets/71d9d096-4d16-4c8d-8664-3ff7fc463be4" />
 
+# Projeto: media
+
+Fazer um programa para ler o nome de um aluno e as três notas que ele obteve nos três trimestres do ano (primeiro trimestre vale 30 e o segundo e terceiro valem 35 cada). Ao final, mostrar qual a nota final do aluno no ano. Dizer também se o aluno está aprovado (PASS) ou não (FAILED) e, em caso negativo, quantos pontos faltam  para o aluno obter o mínimo para ser aprovado (que é 60% da nota). Você deve criar uma classe Student para resolver este problema.
+
+<img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/af5bfbcc-179b-4ff0-928d-8bd014978825" />
+
+
+
