@@ -53,7 +53,7 @@ Fazer um programa para ler o nome de um aluno e as três notas que ele obteve no
 
 <img width="632" height="192" alt="image" src="https://github.com/user-attachments/assets/af5bfbcc-179b-4ff0-928d-8bd014978825" />
 
-# Projeto: mathSimples, mathInstancia e mathEstatico
+# Projeto: simpleMath, instanceMath e staticMath
 
 Fazer um programa para ler um valor numérico qualquer, e daí mostrar quanto seria o valor de uma circunferência e do volume de uma esfera para um raio daquele valor. Informar também o valor de PI com duas casas decimais.
 
