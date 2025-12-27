@@ -73,6 +73,22 @@ Faça um programa para ler a cotação do dólar, e depois um valor em dólares 
 
 # Projeto: estoque
 
+# Construtor
+
+• É uma operação especial da classe, que executa no momento da instanciação do objeto
+
+• Usos comuns:
+
+• Iniciar valores dos atributos
+
+• Permitir ou obrigar que o objeto receba dados / dependências no momento de sua instanciação (injeção de dependência)
+
+• Se um construtor customizado não for especificado, a classe disponibiliza o construtor padrão:
+
+Product p = new Product();
+
+• É possível especificar mais de um construtor na mesma classe (sobrecarga)
+
 # Proposta de melhoria
 
 Quando executamos o comando abaixo, instanciamos um produto "product" com seus atributos “vazios”:
@@ -88,3 +104,31 @@ Com o intuito de evitar a existência de produtos sem nome e sem preço, é poss
 
 <img width="1027" height="422" alt="image" src="https://github.com/user-attachments/assets/d71b6352-ede0-4fd5-bfb4-c1d17aec8dbf" />
 
+# Palavra this
+• É uma referência para o próprio objeto
+• Usos comuns:
+• Diferenciar atributos de variáveis locais
+• Passar o próprio objeto como argumento na chamada de um método ou construtor
+
+#Sobrecarga
+
+• É um recurso que uma classe possui de oferecer mais de uma operação com o mesmo nome, porém com diferentes listas de parâmetros.
+
+# Proposta de melhoria
+
+• Vamos criar um construtor opcional, o qual recebe apenas nome e preço do produto. A quantidade em estoque deste novo produto, por padrão, deverá então ser iniciada com o valor zero.
+
+• Nota: é possível também incluir um construtor padrão
+
+
+# Encapsulamento
+
+• É um princípio que consiste em esconder detalhes de implementação de uma classe, expondo apenas operações seguras e que mantenham os objetos em um estado consistente.
+
+• Regra de ouro: o objeto deve sempre estar em um estado consistente, e a própria classe deve garantir isso. 
+
+# Regra geral básica
+
+• Um objeto NÃO deve expor nenhum atributo (modificador de acesso private)
+
+• Os atributos devem ser acessados por meio de métodos get e set
