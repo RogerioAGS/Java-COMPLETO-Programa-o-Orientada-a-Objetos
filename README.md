@@ -38,7 +38,7 @@ mostrado no projeto ao lado.
 <img width="157" height="132" alt="image" src="https://github.com/user-attachments/assets/d3c7dc43-49cf-4e1b-8289-bfd980c63764" />
 
 
-# Projeto: funcuinario
+# Projeto: funcinario
 
 Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto). Em seguida, mostrar os dados do funcionário (nome e salário líquido). Em seguida, aumentar o
 salário do funcionário com base em uma porcentagem dada (somente o salário bruto é afetado pela porcentagem) e mostrar novamente os dados do funcionário. Use a classe projetada abaixo.
