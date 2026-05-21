@@ -135,6 +135,8 @@ Com o intuito de evitar a existência de produtos sem nome e sem preço, é poss
 
 <img width="235" height="136" alt="image" src="https://github.com/user-attachments/assets/4b9674e4-f97f-43a5-905e-bc469fa766a4" />
 
+<img width="696" height="336" alt="image" src="https://github.com/user-attachments/assets/d79c4328-7871-4c3d-84c5-0f79cbf8fcd2" />
+
 <img width="731" height="413" alt="image" src="https://github.com/user-attachments/assets/6c181aa6-7752-487a-8f4b-7c5367a588b2" />
 
 <img width="735" height="411" alt="image" src="https://github.com/user-attachments/assets/1a3115c0-0681-4f0f-bff7-ff81e45a9d24" />
